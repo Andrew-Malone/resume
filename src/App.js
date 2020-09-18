@@ -86,7 +86,17 @@ function App() {
             <dd className="clear"></dd>
             
             <dt>Hobbies</dt>
-            <dd>Piano <br/>Table Tennis<br/>Chess<br/>Games</dd>
+            <dd> 
+
+              <ul>
+                <li>Piano</li>
+                <li>Table Tennis</li>
+                <li>Chess</li>
+                <li>Games</li>
+              </ul> 
+
+
+            </dd>
             
             <dd className="clear"></dd>
             
