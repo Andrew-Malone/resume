@@ -4,14 +4,6 @@ import './App.css';
 function App() {
   return (
 
-/* <p>
-      <strong>Major:</strong> <br />
-      <strong>Minor:</strong> 
-   </p>
-*/
-
-
-
  <div id="page-wrap">
     
         <img src="" alt="pic" id="pic" />
@@ -109,13 +101,6 @@ function App() {
         <div className="clear"></div>
     
     </div>
-
-
-
-
-
-
-
 
 
   );
